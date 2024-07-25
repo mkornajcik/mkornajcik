@@ -1,6 +1,4 @@
-
 # 👋 Hi, I'm Marko.
-<br><br>
 ## 🚀 About Me:<br>I'm a passionate about programming and focusing on creating efficient and scalable applications. With a solid foundation in Python and experience with various frameworks, I'm continuously exploring new technologies to expand my skill set.<br>
 
 
