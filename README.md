@@ -3,8 +3,8 @@
 ```bash
 > help --info
 > Studied Electrical Engineering but found passion in coding.
-> Mainly programs in TypeScript and JavaScript.
-> Likes playing games.
+> I program mainly in TypeScript and JavaScript.
+> I like playing games.
 > Find more at https://mkornajcik.dev/
 ```
 
